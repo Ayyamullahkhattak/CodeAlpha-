@@ -1,0 +1,2 @@
+# CodeAlpha-Task-1-EDA-of-Heart-Attack-in-Youths-vs-Adults-in-Pakistan
+Exploratory Data Analysis (EDA) on a cardiovascular health dataset using Python, Pandas, NumPy, Matplotlib, and Seaborn. Analyzed age and gender distributions, compared youth and adults, and explored cardiovascular risk factors, smoking, blood pressure, cholesterol, and chest pain patterns as part of the CodeAlpha Data Analytics Internship.
